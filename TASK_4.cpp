@@ -13,6 +13,5 @@ int main()
 	cin >> str;
 	if (bracestr.isBalanced(str)) cout << "Is balanced" << endl;
 	else cout << " No balanced" << endl;
-
 	return 0;
 }
